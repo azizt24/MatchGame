@@ -26,7 +26,7 @@ export const questionsData = [
     },{ 
       imgSource: "https://fastly.picsum.photos/id/33/5000/3333.jpg?hmac=h5NVRcUXmsWm612YQOroHSA5n9R7gxZgoP60LHBPHtw", 
       question: "Is this a flower?", 
-      rightAnswer: False
+      rightAnswer: false
     },{ 
       imgSource: "https://picsum.photos/600/400?random=8", 
       question: "Is this a pizza?", 
